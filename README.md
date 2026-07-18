@@ -150,6 +150,7 @@ pip install -r requirements.txt
 * Python Developer
 * AI & Data Science Enthusiast
 * Machine Learning and Reinforcement Learning Practitioner
-
+  
+⭐ If you like this project, don't forget to star the repository!
 
 
